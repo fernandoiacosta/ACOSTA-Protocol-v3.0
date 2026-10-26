@@ -8,7 +8,11 @@ This repository preserves ACOSTA Protocol 3.0 as a historical research artifact 
 
 ## Original scope
 
-ACOSTA Protocol 3.0 describes an AI-development roadmap organized around quantum-classical hybrid systems, neuromorphic computing, biological AI interfaces, global collective intelligence, multi-agent collaborative intelligence, adaptive knowledge graphs, autonomous ethical decision-making, bias detection and mitigation, neural-symbolic reasoning, autonomous theory generation and validation, human-AI integration, distributed scalability and interoperability, peer review and validation, biologically inspired learning, and monitoring/auditing of AI behavior.
+ACOSTA Protocol 3.0 describes an AI-development roadmap organized around quantum-classical hybrid systems, software-based neuromorphic modeling and simulation, biological AI interfaces, global collective intelligence, multi-agent collaborative intelligence, adaptive knowledge graphs, autonomous ethical decision-making, bias detection and mitigation, neural-symbolic reasoning, autonomous theory generation and validation, human-AI integration, distributed scalability and interoperability, peer review and validation, biologically inspired learning, and monitoring/auditing of AI behavior.
+
+## Author terminology clarification
+
+On October 25, 2026, Fernando Acosta clarified that the roadmap's reference to *neuromorphic hardware* was intended to mean **neuromorphic software**: software-based neural and neuromorphic modeling/simulation, not a requirement for specialized neuromorphic processors. The roadmap transcription was corrected with a dated annotation; the previous wording remains available in Git history, and the original canonical source remains unchanged.
 
 ## Publication status
 
