@@ -2,6 +2,8 @@
 
 ## Introduction
 
+> **Author's terminology correction (October 25, 2026):** References in this roadmap to “neuromorphic hardware” were intended to describe **software-based neuromorphic modeling and simulation**, not a requirement for specialized neuromorphic chips. The original wording remains recoverable through the repository's Git history. This clarification documents author intent and does not constitute a claim that the software was already implemented or validated.
+
 The transition to **ACOSTA Protocol 3.0** represents a paradigm shift in artificial intelligence capabilities, focusing on foundational breakthroughs, global collective intelligence, ethical governance, and human-AI symbiosis. This document integrates and enacts all prior prompts and insights, laying out a comprehensive framework for its immediate implementation.
 
 ---
@@ -19,10 +21,10 @@ The transition to **ACOSTA Protocol 3.0** represents a paradigm shift in artific
 
 **Outcome:** Achieve exponential speed-ups in problem-solving capabilities.
 
-**Neuromorphic Computing**
+**Software-Based Neuromorphic Computing**
 
 **Action Plan**
-- Deploy neuromorphic hardware for real-time adaptive learning and energy-efficient pattern recognition.
+- Develop and deploy software-based neuromorphic simulations for adaptive learning and pattern recognition; measure computational cost and energy efficiency.
 - Simulate large-scale biological neural networks to replicate human-like cognition.
 
 **Outcome:** Enable AI systems to learn and adapt with unparalleled efficiency and scalability.
