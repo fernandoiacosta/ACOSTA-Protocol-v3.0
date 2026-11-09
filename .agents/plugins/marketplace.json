@@ -1,0 +1,20 @@
+{
+  "name": "acosta-v3-plugins",
+  "interface": {
+    "displayName": "ACOSTA Protocol V3"
+  },
+  "plugins": [
+    {
+      "name": "acosta-v3",
+      "source": {
+        "source": "local",
+        "path": "./plugins/acosta-v3"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
